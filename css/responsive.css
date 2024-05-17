@@ -1,0 +1,27 @@
+@media (max-width:767px){
+   .container{
+    width: 90%;
+   }
+   #About{
+      
+      height: 200vh;
+     
+      
+  }
+   #About img{
+   width: 100%;
+   float: none;
+    
+    
+}
+#About .about_cnt{
+   
+}
+#About .about_cnt{
+   padding-left: 0;
+   
+   margin: 20px 0;
+   width: 681px; 
+  
+}
+}
